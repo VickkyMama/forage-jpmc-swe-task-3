@@ -52,6 +52,7 @@ class Graph extends Component<IProps, {}> {
         trigger_alert: 'avg',
       }));
     }
+  }
 
 
   componentDidUpdate() {
